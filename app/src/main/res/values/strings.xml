@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecycleView_Tiwi_30</string>
+    <string name="superhero_name">Superhero Name</string>
+    <string name="description">Description</string>
+    <string name="heroes_name">Superhero Name</string>
+    <string name="todo">TODO</string>
+</resources>
